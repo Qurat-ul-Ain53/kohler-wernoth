@@ -184,7 +184,8 @@ height: 129px; */
 .carouselImgs{
     display: flex;
 flex-direction: row;
-align-items: flex-start;
+justify-content: center;
+align-items: center;
 padding: 0px;
 gap: 24px;
 }
